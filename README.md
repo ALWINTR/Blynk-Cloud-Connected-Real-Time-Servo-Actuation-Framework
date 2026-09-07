@@ -142,7 +142,7 @@ Go to `Sketch` $\rightarrow$ `Include Library` $\rightarrow$ `Manage Libraries..
 
 ## ⚙️ Code Configuration
 
-Open [`blynk_servo_controller.ino`](file:///C:/Users/matha/.gemini/antigravity/scratch/blynk_servo_controller/blynk_servo_controller.ino) and update the configuration section:
+Open [`blynk_servo_controller.ino`](file:///C:/Users/matha/.gemini/Developer Logs/scratch/blynk_servo_controller/blynk_servo_controller.ino) and update the configuration section:
 
 ```cpp
 // 1. Paste your Blynk credentials here:
